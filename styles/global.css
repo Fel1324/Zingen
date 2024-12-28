@@ -78,7 +78,7 @@ ul[role="list"]{
   list-style: none;
 }
 
-@media screen and (min-width: 80em){
+@media screen and (width >= 80em){
   :root{
     --fs-lg: 2rem;
     --fs-xl: 3rem;
